@@ -1,7 +1,6 @@
 package com.company.service;
 
 import com.company.domain.messagehandlers.SaleMessageHandler;
-import com.company.report.SalesReportGenerator;
 
 import java.util.List;
 

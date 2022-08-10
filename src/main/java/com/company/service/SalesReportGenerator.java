@@ -1,4 +1,4 @@
-package com.company.report;
+package com.company.service;
 
 import com.company.domain.Sale;
 import com.company.service.SaleService;

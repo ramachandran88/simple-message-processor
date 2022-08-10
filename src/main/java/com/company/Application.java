@@ -4,10 +4,10 @@ import com.company.domain.messagehandlers.AdjustmentSaleMessageHandler;
 import com.company.domain.messagehandlers.MultiSaleMessageHandler;
 import com.company.domain.messagehandlers.SaleMessageHandler;
 import com.company.domain.messagehandlers.SingleSaleMessageHandler;
-import com.company.service.SalesReportGenerator;
 import com.company.repository.SaleRepository;
 import com.company.service.MessageProcessor;
 import com.company.service.SaleService;
+import com.company.service.SalesReportGenerator;
 
 import java.io.IOException;
 import java.nio.file.Files;

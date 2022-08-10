@@ -20,7 +20,7 @@ public class AdjustmentSaleMessageHandler implements SaleMessageHandler {
     public void handle(String message) {
         String[] messageArray = message.trim().split(MESSAGE_DELIMITER);
 
-        if(!shouldProcess(messageArray)) {
+        if (!shouldProcess(messageArray)) {
             return;
         }
 
@@ -42,8 +42,6 @@ public class AdjustmentSaleMessageHandler implements SaleMessageHandler {
                 .map(Enum::name)
                 .collect(Collectors.joining("|"));
     }
-
-
 
 
 }

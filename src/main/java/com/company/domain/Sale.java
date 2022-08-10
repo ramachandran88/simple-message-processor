@@ -46,9 +46,8 @@ public class Sale {
     }
 
     public double getTotalValue() {
-       return totalValue;
+        return totalValue;
     }
-
 
 
     @Override

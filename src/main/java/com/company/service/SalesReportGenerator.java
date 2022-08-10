@@ -1,7 +1,6 @@
 package com.company.service;
 
 import com.company.domain.Sale;
-import com.company.service.SaleService;
 
 import java.util.List;
 import java.util.Map;

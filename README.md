@@ -1,10 +1,10 @@
 # simple-message-processor
 
-#Dependencies
+# Dependencies
 junit and mockito dependencies
 
-#How to Run the application
-Execute main method in com.Application
+# How to Run the application
+Execute main method in com.company.Application
 
 #Unit test
 src/test
